@@ -1,11 +1,6 @@
 {
   "masks": [
     {
-      "id": "1",
-      "path": "RabbitLatext.zip",
-      "md5": "c47e93003e44114654c1fba9996f051e"
-    },
-    {
       "id": "2",
       "path": "RabbitBlest.zip",
       "md5": "fa85901214cf34695dafaadbabe00119"
